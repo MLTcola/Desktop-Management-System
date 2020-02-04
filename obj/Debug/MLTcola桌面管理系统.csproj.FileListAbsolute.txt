@@ -1,0 +1,10 @@
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\bin\Debug\MLTcola桌面管理系统.exe.config
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\bin\Debug\MLTcola桌面管理系统.exe
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\bin\Debug\MLTcola桌面管理系统.pdb
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\obj\Debug\MLTcola桌面管理系统.csprojResolveAssemblyReference.cache
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\obj\Debug\MLTcola桌面管理系统.Form1.resources
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\obj\Debug\MLTcola桌面管理系统.Properties.Resources.resources
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\obj\Debug\MLTcola桌面管理系统.csproj.GenerateResource.Cache
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\obj\Debug\MLTcola桌面管理系统.exe
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\obj\Debug\MLTcola桌面管理系统.pdb
+D:\MY\C#程序\winform程序\MLTcola桌面管理系统\MLTcola桌面管理系统\MLTcola桌面管理系统\obj\Debug\MLTcola桌面管理系统.Form2.resources
